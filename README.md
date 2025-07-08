@@ -20,7 +20,26 @@ Este proyecto tiene como finalidad documentar y ejecutar pruebas manuales de for
 
 ## 📁 Estructura del Repositorio
 
-login-test-checklist/ ├── README.md ├── test-cases/ │ ├── campo-obligatorio.md │ ├── contraseñas-inválidas.md │ ├── recuperación-contraseña.md │ └── tabla-resumen.xlsx ├── assets/ │ └── capturas/ │ ├── caso1.png │ ├── caso2.png │ └── caso3.png ├── docs/ │ └── instrucciones-prueba.html ├── .github/ │ └── ISSUE_TEMPLATE/ │ └── reporte-de-error.md ├── .gitignore ├── .gitattributes └── LICENSE
+login-test-checklist/
+├── README.md 
+├── test-cases/
+│ ├── campo-obligatorio.md
+│ ├── contraseñas-inválidas.md
+│ ├── recuperación-contraseña.md
+│ └── tabla-resumen.xlsx
+├── assets/
+│ └── capturas/
+│ ├── caso1.png
+│ ├── caso2.png
+│ └── caso3.png
+├── docs/
+│ └── instrucciones-prueba.html
+├── .github/
+│ └── ISSUE_TEMPLATE/
+│ └── reporte-de-error.m
+├── .gitignore
+├── .gitattributes
+└── LICENSE
 
 ## 📝 Casos de Prueba
 
