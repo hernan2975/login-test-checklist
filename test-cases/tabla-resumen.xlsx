@@ -1,1 +1,4 @@
-b
+
+Tabla con todos los casos.
+
+Columnas sugeridas: ID, Descripción, Prioridad, Estado, Resultado esperado, Resultado obtenido.
